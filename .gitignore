@@ -1,0 +1,23 @@
+.venv/
+browser_session/
+*.png
+latest_page_text.txt
+monitor_stdout.log
+monitor_stderr.log
+monitor_log.txt
+bot_log.txt
+slack_trigger.json
+# config.json contains credentials — NEVER commit
+config.json
+
+# macOS launchd
+*.plist
+
+# Python
+__pycache__/
+*.pyc
+
+# Runtime state
+monitor_state.json
+status.json
+command.json
