@@ -2,6 +2,8 @@
 
 **Automated helicopter booking monitor and sniper for IRCTC Heli Yatra.**
 
+![Kedarnath Booking](docs/kedarnath-booking-card.png)
+
 Helicopter slots for Kedarnath sell out within seconds of going live on IRCTC's portal. This tool monitors the booking page around the clock, alerts you the moment slots open, and automates the booking flow at maximum speed -- giving your family the best shot at securing seats.
 
 Built for a 7-person family pilgrimage trip to Kedarnath.
