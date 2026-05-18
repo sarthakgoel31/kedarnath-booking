@@ -4,7 +4,7 @@ Source: YouTube walkthrough + portal testing on April 10, 2026
 
 ## Pre-requisites
 - Chardham Yatra Registration done (Group ID: 6030093768, 7 members)
-- IRCTC HeliYatra account (login: REDACTED / REDACTED)
+- IRCTC HeliYatra account (login: <YOUR_MOBILE> / <YOUR_IRCTC_PASSWORD>)
 - Bookings open: April 11, 2026 at 12:00 noon
 - Journey dates: April 22 - June 15, 2026
 
@@ -12,7 +12,7 @@ Source: YouTube walkthrough + portal testing on April 10, 2026
 
 ### Step 1: Login
 - URL: https://www.heliyatra.irctc.co.in/auth
-- Fill: Mobile Number (REDACTED) + Password (REDACTED)
+- Fill: Mobile Number (<YOUR_MOBILE>) + Password (<YOUR_IRCTC_PASSWORD>)
 - Click: LOGIN button
 - Result: Redirects to /app/trip/search (no CAPTCHA, no OTP confirmed in testing)
 
@@ -55,7 +55,7 @@ Source: YouTube walkthrough + portal testing on April 10, 2026
 - IMPORTANT: Button says "Book Sheet" not "Submit" or "Book Now"
 
 ### Step 9: OTP Verification
-- OTP sent to profile email (REDACTED) AND mobile (REDACTED)
+- OTP sent to profile email (<YOUR_EMAIL>) AND mobile (<YOUR_MOBILE>)
 - **Sarthak must get OTP from Nitin bhaiya's phone or email**
 - Enter OTP → Click Submit
 
